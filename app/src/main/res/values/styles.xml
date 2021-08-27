@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextLabelStyle" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextStyle" parent="@style/TextLabelStyle">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="ProgressBarTheme">
+        <item name="android:indeterminate">true</item>
+        <item name="android:indeterminateTintMode">src_atop</item>
+        <item name="android:indeterminateTint">@color/colorPrimary</item>
+    </style>
+
+    <style name="ErrorTextStyle">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/darkGray</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

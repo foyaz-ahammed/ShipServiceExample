@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ship Service</string>
+    <string name="sky">Sky</string>
+    <string name="bliss">Bliss</string>
+    <string name="escape">Escape</string>
+    <string name="ship_name">Ship name</string>
+    <string name="passenger_capacity">Passenger capacity</string>
+    <string name="crew">Crew</string>
+    <string name="inaugural_date">Inaugural date</string>
+    <string name="error_loading_data">Error loading data \n Check your connection please</string>
+</resources>
